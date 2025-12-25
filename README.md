@@ -6,7 +6,6 @@ This project integrates operational call transcript data with **Generative AI** 
 [![Built with Streamlit](https://img.shields.io/badge/Streamlit-Powered-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![Data Source: Snowflake](https://img.shields.io/badge/Data%20Source-Snowflake%20Cloud-0099E6?logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![AI Engine: Cortex](https://img.shields.io/badge/AI%20Engine-Snowflake%20Cortex-2EA44F)](https://www.snowflake.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status: Live Demo](https://img.shields.io/badge/Status-Deployed%20in%20Snowflake-2EA44F)](<LINK_TO_YOUR_SNOWSIGHT_APP_HERE>)
 
 ---
