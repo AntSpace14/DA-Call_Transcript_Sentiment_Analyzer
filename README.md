@@ -108,13 +108,14 @@ INSERT INTO CALL_TRANSCRIPTS VALUES
 ## 📁 Repository Structure
 
 The repository is organized for quick deployment within the Streamlit in Snowflake environment:
+```text
 /Call_Center_Cortex_Streamlit
 ├── README.md
 ├── streamlit_app.py              # Core Streamlit app logic
 └── Data_Setup/
     ├── create_tables.sql         # SQL for table creation
     └── sample_data_load.sql      # Sample transcript inserts
-
+```
 ---
 
 ### Screenshots / Demos
